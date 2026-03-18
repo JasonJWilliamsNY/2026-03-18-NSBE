@@ -320,7 +320,9 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.
+  <ul><li><a href="https://pad.carpentries.org/2026-03-18-NSBE-Kent">Kent Room Etherpad</a><li>
+<a href="https://pad.carpentries.org/2026-03-18-NSBE-James">James Room Etherpad</a></li>ul
 </p>
 <hr/>
 {% endif %}
